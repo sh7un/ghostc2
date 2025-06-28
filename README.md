@@ -1,4 +1,4 @@
-# GhostC2
+# ghostc2
 
 A simple, extensible python C2 framework for learning offensive security, red teaming, and socket programming.
 
