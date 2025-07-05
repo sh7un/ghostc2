@@ -26,5 +26,3 @@ A simple, extensible python C2 framework for learning offensive security, red te
 
 ## Disclaimer
 !!! For educational use only. You break, you buy. !!!
-
----
